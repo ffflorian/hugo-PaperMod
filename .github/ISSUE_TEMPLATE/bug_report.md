@@ -27,7 +27,7 @@ Please fill the template below
  - Type: [e.g. Desktop/Mobile]
  - Browser and version [e.g. Chrome 86.0]:
  - Hugo Version [ >=0.83.0 expected]:
- - Theme Version [e.g. v4.0, master, or commit-id ]:
+ - Theme Version [e.g. v4.0, main, or commit-id ]:
 
 **Steps to reproduce the behavior:**
 <!--

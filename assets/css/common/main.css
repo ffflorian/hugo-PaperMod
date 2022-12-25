@@ -1,9 +1,15 @@
-.main {
+#main {
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
+}
+
+.skip-to-content-link {
+    left: 50%;
+    position: absolute;
+    transform: translateY(-100%);
 }
 
 .page-header h1 {
